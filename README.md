@@ -5,7 +5,7 @@
 前端：vue + vue-loader + webpack
 mock：edp-webserver
 
-git 地址：https://github.com/kekee000/vue-webpack-project
+git 地址：https://github.com/zhoucumt/vue-webpack-project
 
 初始化
 
